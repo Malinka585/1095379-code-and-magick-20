@@ -1,8 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Алина Бернгарт](https://up.htmlacademy.ru/javascript/20/user/1095379).
-* Наставник: `Неизвестно`.
-
+* Наставник: [Андрей Слесаренко](https://up.htmlacademy.ru/javascript/20/user/279781).
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
